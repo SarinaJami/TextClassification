@@ -170,6 +170,7 @@ pip-selfcheck.json
 # my files
 report.docx
 ~$report.docx
+report.pdf
 edges.csv
 network.csv
 Task
